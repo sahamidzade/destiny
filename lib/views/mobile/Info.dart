@@ -63,7 +63,7 @@ class _SettingsState extends SettingsShared<Info> {
                                     color: CustomColors.lighterBlue,
                                     fontSize: 16.0)),
                             onTap: () async {
-                              const url = FQA_LINK;
+                              const url = FAQ_LINK;
                               launch(url);
                             },
                           ),

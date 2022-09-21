@@ -186,11 +186,11 @@ const String FQA = 'FAQ';
 const String PRIVACY = 'Privacy Policy';
 
 const String FEEDBACK_LINK =
-    'https://github.com/LeastAuthority/destiny/blob/main/README.md';
-const String FQA_LINK =
-    'https://github.com/LeastAuthority/destiny/blob/main/README.md';
+    'https://github.com/LeastAuthority/destiny/blob/main/FAQ.md#contact';
+const String FAQ_LINK =
+    'https://github.com/LeastAuthority/destiny/blob/main/FAQ.md';
 const String PRIVACY_LINK =
-    'https://github.com/LeastAuthority/destiny/blob/main/README.md';
+    'https://github.com/LeastAuthority/destiny/blob/main/PRIVACY-POLICY.md';
 
 const String ERR_WRONG_CODE_RECEIVER = """Oops..   
 If you’re sure this is the right code: Either the sender is no longer connected, or the code was already used.
